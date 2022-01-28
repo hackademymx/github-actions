@@ -34,3 +34,9 @@ Se construirá un pipeline para el frontend. Para ello, se seguirán los siguien
 - Guía acerca de que se puede mejorar en estos flujos (Diferentes ambientes, pruebas A/B, K8s, etc)
 - Preguntas finales
 
+## 6. Fechas
+El taller se llevará a cabo los días 11 de febrero a las 8:00 PM (Hora CDMX) y 12 de febrero a las 11:00 AM (Hora CDMX)
+El taller tiene una cuota de recuperación de 12 dolares.
+
+Registro y pago:
+https://buy.stripe.com/dR6cP7dXs9jEfYceV8
